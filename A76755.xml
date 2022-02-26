@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the late revolutions in New-England in a letter.</title>
+            <author>A. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76755</idno>
+            <idno type="STC">Wing B2A</idno>
+            <idno type="STC">ESTC W24943</idno>
+            <idno type="EEBO-CITATION">99897534</idno>
+            <idno type="PROQUEST">99897534</idno>
+            <idno type="VID">170859</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76755)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170859)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2487:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the late revolutions in New-England in a letter.</title>
+                  <author>A. B.</author>
+                  <author>Byfield, Nathanael, 1653-1733, attributed name.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuel Green,</publisher>
+                  <pubPlace>[Boston :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed on p. 7: Your servant, A.B. Boston, June 6. 1689. Attributed to Nathaniel Byfield by Evans. "Authorship doubtful."--Shipton &amp; Mooney.</note>
+                  <note>Imprint supplied from Evans. Wing suggests Benjamin Harris as publisher.</note>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>New England --  History --  Colonial period, ca. 1600-1775.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:170859:1" rendition="simple:additions"/>
+            <pb facs="tcp:170859:2"/>
+            <pb facs="tcp:170859:2" rendition="simple:additions"/>
+            <head>An Account of the Late REVOLUTIONS in <hi>New-England; <hi>In a Letter.</hi>
+               </hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>AMong the many matters of <hi>Diſcourſe</hi> and <hi>Wonder</hi> at this day a<g ref="char:EOLhyphen"/>broad in the World, the ſtate of <hi>New-England</hi> cannot but be <hi>One</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and of that, if I would not forfeit the Character which you al<g ref="char:EOLhyphen"/>low me of your <hi>Friend,</hi> I muſt now give you ſome account. Since the <hi>Illegal</hi> Subverſion of our Ancient Government, this <hi>Great,</hi> but <hi>poor</hi> people have been in the Hands of <hi>men skilful to deſtroy,</hi> and all our Concerns both Civil and Sacred, have ſuffered by the Arbitrary Oppreſſions of <hi>Unreaſonable Men.</hi> I believe, no part of the <hi>Engliſh America,</hi> ſo powerful and united as <hi>New-England</hi> was, could have endured half ſo many Abuſes as we have bin haraſſed withal, with a tenth part of our Patience; but our <hi>Conſcience</hi> was that which gave metal to our <hi>Patience,</hi> and kept us Quet; for though our foul mouth'd Enemies have treated us as a <hi>Rebellious,</hi> becauſe we are a <hi>Reli<g ref="char:EOLhyphen"/>gious</hi> people, they may be pleaſed now to underſtand, That if we had not been <hi>Religious,</hi> we had long ſince been what they would, if they durſt, have called <hi>Rebellious.</hi> The very <hi>Form</hi> of Government impoſed upon us, was among <hi>the worſt of Treaſons,</hi> even a Treaſonable Invaſion of the Rights which the whole <hi>Engliſh</hi> Nation lays claim unto; every true <hi>Engliſh-man</hi> muſt juſtifie our Diſsatisfaction at it, and believe that we have not ſo much <hi>Reſiſted the Ordinance of God,</hi> as we have Reſiſted an intollerable Violation of His <hi>Ordinance.</hi>
+            </p>
+            <p>But Sir, be pleaſed now to reflect upon our <hi>Declaration,</hi> and conſider whe<g ref="char:EOLhyphen"/>ther the <hi>Adminiſtration</hi> of this Government was not as Vexatious, as the <hi>Conſtitution</hi> of it was Illegal. Conſider whether the whole Government was not become a meer <hi>Engine,</hi> a ſort of <hi>Machin</hi> contriv'd only to enrich a crew of Abject Strangers, upon the Ruines of a miſerable people. And yet, I am to tell you, That <hi>ſcarce one half is told you.</hi> The <hi>Declaration</hi> was compoſed ſo much in the Hurry of Action, that it comprehends not all our <hi>Grievances;</hi> However, you may gueſs from the <hi>Claw<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> there pour<g ref="char:EOLhyphen"/>tray'd; what ſort of Creatures were devouring of us.</p>
+            <pb facs="tcp:170859:3" rendition="simple:additions"/>
+            <p>Sir, <hi>I</hi> own, that we <hi>Argue ſimply</hi> about the Affairs of Government; but we <hi>Feel True.</hi> I have ſometimes challenged any man to mention ſo much as <hi>One Thing</hi> done by our Late Superiors for the welfare of the Country, a thouſand things we all <hi>Felt</hi> every day doing for the Ruine of it; and as 'tis ſaid, once when they had Divine Service among them, he that read it, being to read that Epiſtle, where, according to their Tranſlation, 'tis ſaid, <hi>Be Harbarous one to another:</hi> By an unhappy miſtake read it <hi>Be Barbarous one to another;</hi> So we thought we <hi>Felt</hi> their continual Actings upon that mi<g ref="char:EOLhyphen"/>ſtaken Rule. However, I confeſs (and <hi>I</hi> know not whether you will count it our <hi>Honour</hi> or our <hi>Blemiſh</hi>) we ſhould have born the Grievances, without any Attempts for our own Relief, but our Supplications to the Great God; for our Applications to the Late King, our only remaining Remedy on earth, we had found ineffectual. But there happened one Provocation to our people more, which had more than an hundred in it, and ſuch was their <hi>Infir<g ref="char:EOLhyphen"/>mity,</hi> if you will call it ſo, that this they could not bear. A ſmall Body of our <hi>Eaſtern</hi> Indians had begun a <hi>War</hi> upon us: the <hi>Occaſion of</hi> which was as doubtful to us all at firſt, as the whole <hi>Management</hi> of it was afterwards my<g ref="char:EOLhyphen"/>ſterious. A Party of Indians which were affirm'd to belong unto that crew of Murderers were ſeiz'd by the <hi>Engliſh;</hi> but Governour <hi>Andros</hi> with many favours to them, ordered them to be ſet at Liberty again: and it's affirmed, <hi>Thoſe</hi> very men have done great part of the miſchief ſuſtained by us. An Army of near a <hi>Thouſand Engliſh</hi> (and the flower of our Youth) was raiſed, for the ſubduing of our Enemies, which I believe were much fewer than an <hi>Hundred Indians.</hi> This Army goes through the tedious Fatigues of a long and cold Winter, many ſcores of miles to the Northward; and under-went ſuch Hardſhips, that very many of our poor Souldiers periſhed on the Spot; and it is juſtly fear'd, That not a few more of them have ſo got their bane, that they will never be ſtrong men again: but not one Indian killed all this while; only Garriſons were here and there planted in the wild woods on a pretence, <hi>To keep the Indians from Fiſhing;</hi> which project of <hi>Hedging in the Cuckow's,</hi> or dull <hi>New-Englanders</hi> could not underſtand. It was farther admirable to us, that though the Governour had been importun'd to take a much more <hi>expedient,</hi> and far leſs <hi>Expenſive way</hi> of ſubduing our <hi>Indian Ene<g ref="char:EOLhyphen"/>mies,</hi> he was thereto wholly unperſwadeable. In the mean time the Country was wonderfully ſurpriſed, with Evidences coming in, from Indians and others, in ſeveral parts, which very Strangely concurred in their Teſtimonies, <hi>That there was a Plot to bring in the Indians upon us;</hi> and is was eaſy unto us to conceive, How <hi>ſerviceable</hi> another <hi>Indian</hi> War might have been to the Deſigns which we ſaw working for us. Theſe Eviden<g ref="char:EOLhyphen"/>ces were ſo far from being duly enquired into, that the <hi>Engliſhmen</hi> who had been inquiſitive after them, were put unto all manner of trouble, and muſt have been deſtroyed, if a Turn had not happened, thought nothing in the World was more natural, than the Agreement between ſuch a <hi>Plot,</hi> and the
+<pb n="3" facs="tcp:170859:3" rendition="simple:additions"/> whole conduct of our <hi>Eaſtern Affairs;</hi> nor is there any contradiction in its in one of <hi>Randolph's</hi> Letters to <hi>Blaithwait,</hi> which ſays, <hi>Nothing has been wan<g ref="char:EOLhyphen"/>ting in his Excellency, to bring all things to a good poſture; but this people are Ri<g ref="char:EOLhyphen"/>vetted in their Way, and I fear nothing but Neceſſity or Force will otherwiſe diſ<g ref="char:EOLhyphen"/>poſe them.</hi> While theſe things were going on, by way of the <hi>Weſt-Indies,</hi> there arrived unto us a few ſmall Intimations, That the Prince of <hi>Orange</hi> had proſpered in his Noble Undertaking to reſcue the <hi>Engliſh</hi> Nation from imminent POPERY and SLAVERY But Sir <hi>Edmond Androſſ</hi> took all imaginable care to keep us ignorant of the News, which yet he himſelf could not be unacquainted with; and one that brought the Princes <hi>Declaration</hi> with him, was impriſoned, for bringing Seditious and Treaſonable Papers into the Country with him; and our Oppreſſors went on without <hi>Fear</hi> or <hi>Wit,</hi> in all the methods that could inflame the people to the higheſt exaſperation. The Reports continually coming in from our <hi>Eaſtern Army,</hi> now cauſed the Relations of thoſe that were there periſhing, here a little to beſtir themſelves; and they could not forbear forming them<g ref="char:EOLhyphen"/>ſelves here and there in the Country unto ſome Body, that they might con<g ref="char:EOLhyphen"/>ſider what ſhould be done for their poor Children, whom they thought bound for a bloody Sacrifice. While this was doing, the people of <hi>Boſton</hi> were Alarmed, with Suſpicions buzz'd about the <hi>Town,</hi> by ſome belonging to the Ship, That the <hi>Roſe Frigat</hi> now in our Harbour, was intended to carry off our Late <hi>Governour</hi> for <hi>France,</hi> &amp; to take any of our <hi>Engliſh</hi> Veſ<g ref="char:EOLhyphen"/>ſels, that might be coming in unto us; and we apprehended our ſelves in the mean time very ill provided, if an Attacque from any of the <hi>French</hi> Fleet in the <hi>Weſt Indies</hi> were perfidiouſly made upon us. 'Tis impoſſible to expreſs the Agonies which filled the minds of both Town and Country; but the conſideration of the extream Ferment which we were boiling in, cauſed ſeveral very deſerving Gentlemen in <hi>Boston,</hi> about the middle of <hi>April,</hi> to enter into a Conſultation, how they might beſt ſerve the Diſtreſſed Land in its preſent Diſcompoſures. They conſidered, the <hi>Directions</hi> given in the Princes <hi>Declarations,</hi> (of which at laſt we had ſtolen a ſight) and the <hi>Ex<g ref="char:EOLhyphen"/>amples</hi> which the whole Kingdom of <hi>England</hi> (as far as we could learn) had ſet before us. They alſo conſidered, that the Governour being mov'd to call a General Council, in this extraordinary juncture, inſtead of this, he never ſo much as called his Council here at hand to communicate unto them any part of the <hi>Intelligence relating</hi> to the Late Affairs in <hi>England:</hi> They likewiſe conſidered, That though they were above all things incli<g ref="char:EOLhyphen"/>nable <hi>to ſtay a little,</hi> hoping that every day might bring ſome Orders from <hi>England</hi> for our ſafety, yet they could not undertake for ſuch a Temper in all their provoked Neighbours. Wherefore they Reſolved, That if either the outragious madneſs of our Foes, or the impatient motion of our <hi>Friends,</hi> did neceſſitate any Action, they would put themſelves in the Head of it, and endeavour to prevent what ill effects an <hi>Unform'd Tumult</hi> might pro<g ref="char:EOLhyphen"/>duce.
+<pb n="4" facs="tcp:170859:4" rendition="simple:additions"/> By that time the Eighteenth of <hi>April,</hi> had given a few Hours of Light unto us, things were puſh'd on to ſuch extremities, that <hi>Boſtons</hi> part in Action ſeem'd loudly enough, and haſtily called for. Accordingly, the Captain of the Frigat being then on Shoar, it was determined, that he muſt be made incapable either to <hi>Obſtruct,</hi> or to <hi>Revenge,</hi> the Action, by <hi>Firing</hi> on, or <hi>Sailing</hi> from the Town; him therefore they immediately ſeized. There were not very many acquainted with the meaſures that were to be taken; but the Action was now begun, and the Rumour of it running like Lightning through the Town, all ſorts of people were preſently inſpi<g ref="char:EOLhyphen"/>red with the moſt unanimous Reſolution, I believe that was ever ſeen. <hi>Drums</hi> were beaten, and the whole Town was immediately up in <hi>Arms.</hi>
+            </p>
+            <p>The firſt work done, was by ſmall parties here and there about the <hi>Town</hi> to ſieze upon thoſe unworthy Men, who by Repeated Extortions and Abuſes, had made themſelves the objects of <hi>Univerſal Hatred</hi> and Indignati<g ref="char:EOLhyphen"/>on. <hi>Theſe</hi> were many of them ſecured and confined; but the principal of them, at the <hi>Firſt Noiſe</hi> of the Action, fled into the Garriſon on <hi>Fort-Hill;</hi> where the <hi>Governours</hi> Lodgings were; a place <hi>very</hi> Commodiouſly <hi>Scituated</hi> to Command the whole Town; but not ſufficiently <hi>Fortify'd.</hi> The Army had no ſooner got well together, but a Declaration was Read unto them, unto which they gave an Aſſent, by a very conſiderable Shout. And upon this, the Gentlemen with ſuch as had come in to their Aſſiſtance in the <hi>Town-houſe,</hi> apprehending the Reſolutions of the people; drew up a ſhort Letter to Sir <hi>Edmond Androſs,</hi> and diſpatched away a couple of their Number with it; the whole armed Body attend them unto the <hi>Fortifi<g ref="char:EOLhyphen"/>cation,</hi> whither they Marched with all the Alacrity in the world, and yet with ſo compoſed a <hi>Sobriety,</hi> that I queſtion whether <hi>America</hi> has ever ſeen what might equal it. It was expected, That the <hi>Garriſon</hi> might make ſome Reſiſtance: but they intended to be Owners of it within one half hour, or periſh in the Attempt. When they were juſt come to beſet the Fort, they met the Governour and his Creatures, going down the Hill, to the Man-of-Wars <hi>Pinace;</hi> which was come to fetch them off; had not they come thi<g ref="char:EOLhyphen"/>ther juſt at that Neck of time, our Adverſaries would have got down to the Caſtle, which is a League below the Town; and in ſpite of us all, the Frigat would have gone unto them; but our <hi>Houſes</hi> on ſhore, and our <hi>Veſ<g ref="char:EOLhyphen"/>ſels</hi> at Sea, muſt have paid all the ſatisfaction they could have demanded of us. However, now at the ſight of our Forces, the Gentlemen ran back into their Hold; whither the two Gentlemen, our Meſſengers now advancing, were preſented at by the Red-coat Centinels; our Souldiers warned them on pain of Death, to forbear firing; upon which they fled into the Fort; and (as 'tis affirmed) had very terrible Reprimands, <hi>for not firing on them.</hi> The Gentlemen being admitted, Sir <hi>Edmond Androſs</hi> read what was written
+<pb n="5" facs="tcp:170859:4" rendition="simple:additions"/> to him, and now better underſtanding his own circumſtances, there was a ſafe conduct given to him, and he with his Aſſociates were brought unto the Chamber, where he had formerly himſelf been hatching the Things that now procur'd his more humble Appearance there. <hi>He</hi> was there treated with all the Reſpect that could be due unto his Character; but he was con<g ref="char:EOLhyphen"/>fined for that Night unto the Houſe of the Late Treaſurer, with Guards up<g ref="char:EOLhyphen"/>on him; and the <hi>Reſt</hi> had their ſeveral confinements alotted unto them in ſuch places as were moſt agreeable to their Quality. With much ado, the Governour gave Order for the ſurrender of the Fort; and the ceremonies of the ſurrender were performed by Secretary <hi>Randolph,</hi> the very man, whoſe lyes and clamours, and malicious unwearied Applications, had the greateſt influence in the overthrow of our former Government. All the Country round about now began to flock in, and by the next day, ſome Thouſands of Horſe and Foot were come in, from the Towns Adjacent, to expreſs the unanimous content they took in the <hi>Action,</hi> and offer their utmoſt Aſſiſtance in what yet remained for the compleating of it, The obtain<g ref="char:EOLhyphen"/>ing of the Caſtle was the main thing that yet called for our cares; but af<g ref="char:EOLhyphen"/>ter ſome ſtomachful Reluctances, the Late Governour gave Order alſo for the ſurrender of <hi>That;</hi> and himſelf was by the people removed unto the Fort to be kept as a Priſoner there. Thus was the Action managed; and through the ſingular Providence of God, not one mans Life was loſt in the whole Undertaking: There was no <hi>Bloodſhed,</hi> nor ſo much as any <hi>Plunder,</hi> committed in all the <hi>Action;</hi> and ſetting aſide the intemperate Speeches of ſome inconſiderable men, (if there were any ſuch) the people generally gave a Demonſtration, That they deſigned nothing but the ſecu<g ref="char:EOLhyphen"/>ring of ſome great Malefactors, for the Juſtice which a courſe of Law would expoſe them to, and they were loath to treat them with any incivility, be<g ref="char:EOLhyphen"/>yond the bare keeping of them in ſufficient cuſtody. No man underwent any Confinement, but ſuch as the people counted the Enemies of the <hi>Prince</hi> of <hi>Orange,</hi> and of our <hi>Engliſh Liberties;</hi> it was not any paſſion for the Ser<g ref="char:EOLhyphen"/>vice of <hi>the Church of Eng<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>and,</hi> that expoſed any man to hardſhip; no, even ſome of that Communion did appear in their Arms to aſſiſt the enterprize; tho' the Worſhip of the Church of <hi>England</hi> had this diſadvantage with us, that moſt of our Late Oppreſſors, were the great and ſole Pillars of it there. The principal Delinquents being now in durance; and the Frigat ſecured for the Crown of <hi>England,</hi> our main difficulty was yet behind; Namely, what Form we ſhould put our ſelves into, that the Peace might be kept a<g ref="char:EOLhyphen"/>mong us. <hi>A</hi> great part of the <hi>Country,</hi> was for an immediate Re-aſſumpti<g ref="char:EOLhyphen"/>on of our old Government; conceiving that the vacating of our <hi>Charter</hi> was a moſt illegal and injurious thing, and that tho' <hi>a Form of Law</hi> had caſt us out of it, yet we might now return to it at leaſt as to a <hi>Vacuum Domicilium.</hi> Others were of the Opinion, That ſince Judgment was entred againſt our <hi>Charter</hi> and we did not know what Conſequence a <hi>wrong ſtep</hi> at this time
+<pb n="6" facs="tcp:170859:5"/> might have, therefore 'twas beſt for the Affairs of the Country to continue in the Hands of a <hi>Committee for the Conſervation of the Peace,</hi> till the daily expected Directions from <hi>England</hi> ſhould arrive unto us. The latter Expe<g ref="char:EOLhyphen"/>dient was condeſcended unto, but the Sword yet continued in every mans hands, and for divers weeks, the Colony continued without any pretence to <hi>Civil Government;</hi> yet thro' the mercy of God, all things were under ſuch good Inclinations among us, that every man gave himſelf the Laws of good Neighbourhood; and little or nothing extravagant was all that while done, beſides the ſeizure of a few more perſons, who had made themſelves obnoxi<g ref="char:EOLhyphen"/>ous to the Diſpleaſure of the People. The Gentlemen of the Committee, laid their Country under great Obligations, by their Studies for <hi>the Conſerva<g ref="char:EOLhyphen"/>tion of our Peace:</hi> and it moſtly conſiſted of ſuch as were ever worthy of our eſteem. It was made up of them, whoſe Hap 'twas to be in the Head of the late Action; but there were added unto them, the moſt of our old Magiſtrates, who had not ſo far concerned themſelves in the Affair. Our former Governour, the Honourable <hi>Simon Bradſtreet,</hi> 
+               <abbr>Eſq</abbr> was Choſen by them for their Preſident: Who tho' he be well towards Ninety Years of Age, has his <hi>Intellectual Force hardly abated,</hi> but <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ams a vigour and Wiſdom, that would recommend a younger man to the Government of a greater Co<g ref="char:EOLhyphen"/>lony.</p>
+            <p>But when the Day which our ancient <hi>Charter</hi> appoints for our Anniverſa<g ref="char:EOLhyphen"/>ſary <hi>Election</hi> drew near, our people grew more and more ſet upon a Return to the <hi>Baſis</hi> on which our <hi>Charter</hi> formerly had placed us; and of thoſe who were thus diſpoſed, ſome were for an <hi>Election</hi> on the proper Day; o<g ref="char:EOLhyphen"/>thers judged that could not be ſo honeſtly attended, becauſe a whole Coun<g ref="char:EOLhyphen"/>ty in the <hi>Colony</hi> was too far off to have a <hi>Vote</hi> in it; and they therefore were for a Re-aſſumption the Day following. Theſe <hi>Two</hi> Opinions, with a <hi>Third,</hi> which was for the continuing of their <hi>Committie</hi> juſt as it was, filled the Country; and very potent Numbers eſpouſed each of theſe three opini<g ref="char:EOLhyphen"/>ons; only we all agreed in jo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ful expectations of having our <hi>Charter</hi> reſto<g ref="char:EOLhyphen"/>red unto us. This Variety of Apprehenſion, was the occaſion of much needleſs Diſcourſe, and of many Heart burnings, that might as well have been ſpared. But the Towns on the Eighth and Ninth of <hi>May,</hi> ſent in their Repreſentatives, at the Deſire of the <hi>Committee,</hi> to adjuſt the matters that concerned a further Neceſſary Settlement; and after many Debates, and ſome Delays, they came to this Temper; That our Ancient <hi>Magistrates</hi> ſhould apply themſelves unto the <hi>Conſervation of our Peace,</hi> and exerciſe what acts of <hi>Government</hi> the Emergencies might make needful for us; and thus wait for further Di<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ections from the Authority of <hi>England.</hi>
+            </p>
+            <p>The Country being put into this poſture, all things tended unto a good ſettlement both of <hi>Minds</hi> and <hi>Things;</hi> which were again too much diſturbed by a Fire, too juſtly fear'd to be maliciouſly kindled (by ſome that made themſelves parties to our Late Enemies <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:170859:5"/> 
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>oy <hi>Four Houſes</hi> were conſumed, but perhaps more tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ouſand <hi>Sp<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>its</hi> inflamed into an Heat, that was hardly Governable. But our peo<g ref="char:EOLhyphen"/>ple being in a good meaſure again compoſed, the World mov'd on in its old orderly pace; until the laſt week in <hi>May,</hi> when two Ships arrived unto us from <hi>England,</hi> with more perfect <hi>News,</hi> than we had yet been owners of; the firſt effect thereof was, our Proclaiming of King <hi>William,</hi> and Queen <hi>Mary,</hi> with ſuch a Joy, Splendour, Appearance and Unanimity, as had never before been ſeen in theſe Territories. The other Colonies are now ſettling on their old Foundations; and <hi>We,</hi> according to the Advice brought unto us, haſten to put our ſelves into ſuch a condition as may beſt anſwer the performance of our Allegiance to their Majeſties.</p>
+            <closer>
+               <salute>SIR,</salute> This Relation of our State, will doubtleſs give <hi>New-England</hi> an intereſt in the Prayers of all Good Men to whom you ſhall Communicate it: And Yours I hope will not be wanting for the Well, are of,
+<salute>Sir,</salute>
+               <signed>Your Servant A. B.</signed>
+               <dateline>
+                  <hi>Boſton,</hi> 
+                  <date>
+                     <hi>June 6. 1689:</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="approbation">
+            <p>THe foregoing Account, being very carefully and critically Examined, by divers very Worthy and Faithful Gentle<g ref="char:EOLhyphen"/>men, was adviſed to be Publiſhed for the preventing of <hi>Falſe Re<g ref="char:EOLhyphen"/>ports:</hi> And is to be Sold at the <hi>London-Coffee-Houſe.</hi>
+            </p>
+            <pb facs="tcp:170859:6" rendition="simple:additions"/>
+            <pb facs="tcp:170859:6"/>
+            <pb facs="tcp:170859:7"/>
+            <trailer>END</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
